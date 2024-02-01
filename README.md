@@ -1,6 +1,6 @@
 # 解决站点访问缓慢/不定时无法访问/访问不通
 ## 1.Cloudflare测速
-1. 下载 [测速脚本](https://github.com/exernest/Files/releases/download/0.1/Cloudflare.zip) 并解压。 [备用链1](https://ghproxy.org/https://github.com/exernest/Files/releases/download/0.1/Cloudflare.zip)  [备用链2](https://mirror.ghproxy.com/https://github.com/exernest/Files/releases/download/0.1/Cloudflare.zip)
+1. 下载 [测速脚本](https://github.com/ERSTT/MDU/releases/download/1.0/Cloudflare.zip) 并解压。 [备用链1](https://ghproxy.org/https://github.com/ERSTT/MDU/releases/download/1.0/Cloudflare.zip)  [备用链2](https://mirror.ghproxy.com/https://github.com/ERSTT/MDU/releases/download/1.0/Cloudflare.zip)
 2. 双击运行解压后文件夹内的 <kbd>Cloudflare.bat</kbd> 文件。
  <details>
  <summary>运行后类似此图</summary>
