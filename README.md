@@ -4,14 +4,14 @@
 2. 双击运行解压后文件夹内的 <kbd>Cloudflare.bat</kbd> 文件。
  <details>
  <summary>运行后类似此图</summary>
- <img src="./img/cfbat/cfbat1.png" alt="运行后类似此图">
+ <img src="https://github.com/ERSTT/MDU/blob/main/img/cfbat/cfbat1.png" alt="运行后类似此图">
  </details>
 
 3. 运行后选择要测速的项目，输入对应的数字即可开始测速。
 4. 耐心等待测速完毕并记录测速后的结果。
 <details>
 <summary>测速后的结果类似此图</summary>
- <img src="./img/cfbat/cfbat2.png" alt="测速后的结果类似此图">
+<img src="https://github.com/ERSTT/MDU/blob/main/img/cfbat/cfbat2.png" alt="测速后的结果类似此图">
 </details>
 
 **注意事项:**
@@ -25,14 +25,14 @@
 1. 双击运行解压后文件夹内的 <kbd>hosts.bat</kbd> 文件（会提示需要管理员权限）。
  <details>
  <summary>运行后类似此图</summary>
- <img src="./img/hostsbat/hostsbat1.png" alt="运行脚本后类似此图">
+ <img src="https://github.com/ERSTT/MDU/blob/main/img/hostsbat/hostsbat1.png" alt="运行脚本后类似此图">
  </details>
 
 2. 输入 1 以运行 修改MDU HOSTS 项目。
 3. 填入之前测速结果排名靠前的任意一个IP
  <details>
  <summary>类似这样</summary>
- <img src="./img/hostsbat/hostsbat2.png" alt="类似这样">
+ <img src="https://github.com/ERSTT/MDU/blob/main/img/hostsbat/hostsbat2.png" alt="类似这样">
  </details> 
 
 4. 等待运行完毕后是否可以访问 [MDU Tracker](https://daisuki.monikadesign.uk) 或 [MDU主站](https://monikadesign.uk/)
